@@ -1,0 +1,10 @@
+dagster
+dagster-webserver
+yfinance
+crewai
+pydantic
+pytest
+fpdf2
+langgraph
+langchain
+langchain_ollama
