@@ -1,4 +1,4 @@
--FIAS: Clinical Trial Financial Impact Analysis System 🧬📊
+CT-FIAS: Clinical Trial Financial Impact Analysis System 🧬📊
 
 CT-FIAS is a production-grade, multi-agent AI pipeline designed to filter biotech and pharmaceutical market noise. By utilizing a local LLM framework, it cross-references daily press releases against empirical regulatory science to separate "hype" from "fact," outputting verified, human-readable financial reports.
 
